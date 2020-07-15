@@ -1,2 +1,3 @@
-# LiveBTSKeyboard
-Alive BTS Characters Pop up when you type!
+# Character-Play-Keyboard
+# ios app
+Characters Pop up when you type!
